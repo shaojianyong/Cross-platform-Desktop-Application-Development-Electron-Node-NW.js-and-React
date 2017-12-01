@@ -4,7 +4,8 @@
   "description": "",
   "main": "unit.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "electron ."
   },
   "engines": {
     "node": ">=6.0.0"
